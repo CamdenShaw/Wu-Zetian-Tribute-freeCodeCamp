@@ -1,0 +1,20 @@
+.main-site {
+    font-family: Arimo;
+    padding-top: 40px;
+}
+
+blockquote {
+    font-size: 21px;
+    font-family: Josefin Sans;
+}
+
+.primary-image {
+    width: 100%;
+    border: 5px solid #acacff;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.caption {
+    padding-bottom: 20px;
+}
